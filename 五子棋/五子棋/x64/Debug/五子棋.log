@@ -1,0 +1,27 @@
+﻿  chess.cpp
+F:\五子棋\五子棋\chess.cpp(13,11): warning C4305: “=”: 从“chess_kind”到“bool”截断
+F:\五子棋\五子棋\chess.cpp(25,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(25,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(26,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(26,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(28,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(28,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(29,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(29,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(40,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(41,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(42,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(43,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(44,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(49,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(59,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(69,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(79,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(95,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\chess.cpp(96,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+F:\五子棋\五子棋\main.cpp(7,30): warning C4305: “参数”: 从“double”到“float”截断
+F:\五子棋\五子棋\main.cpp(7,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\五子棋\五子棋\main.cpp(7,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  五子棋.vcxproj -> F:\五子棋\x64\Debug\五子棋.exe
